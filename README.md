@@ -1,7 +1,7 @@
-[README.md](https://github.com/user-attachments/files/35048689/README.md)
-![Capa](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Craze&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20%7C%20Back-End&descSize=20&descAlignY=56)
+[README (1).md](https://github.com/user-attachments/files/35048903/README.1.md)
+![Capa](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Guilherme&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20%7C%20Back-End&descSize=20&descAlignY=56)
 
-## 👋 Olá, eu sou o Craze
+## 👋 Olá, eu sou o Guilherme
 
 Estudante de **Engenharia de Software na FIAP** (formatura prevista para 2028), com foco em **desenvolvimento Back-End**.
 Também já atuei com front-end no projeto de extensão REPOSIT da Universidade Presbiteriana Mackenzie.
@@ -9,7 +9,6 @@ Também já atuei com front-end no projeto de extensão REPOSIT da Universidade 
 - 🎓 Cursando Engenharia de Software na FIAP
 - 💻 Foco em Back-End
 - 🌱 Sempre aprendendo e construindo projetos novos
-- 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN) · [E-mail](mailto:SEU-EMAIL)
 
 ## 🛠️ Tecnologias
 
@@ -22,7 +21,7 @@ Também já atuei com front-end no projeto de extensão REPOSIT da Universidade 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Guilherme12376&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme12376&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=120&section=footer)
