@@ -1,4 +1,4 @@
-[README (3).md](https://github.com/user-attachments/files/35050549/README.3.md)
+
 <!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Guilherme%20Acacio&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20%7C%20Back-End&descSize=20&descAlignY=56" alt="Guilherme Acacio" />
