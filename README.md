@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/35050432/README.2.md)
+[README (3).md](https://github.com/user-attachments/files/35050549/README.3.md)
 <!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Guilherme%20Acacio&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20%7C%20Back-End&descSize=20&descAlignY=56" alt="Guilherme Acacio" />
@@ -30,7 +30,7 @@ Sou **Guilherme Acacio**, estudante de **Engenharia de Software na FIAP** (forma
 
 - 🎓 Engenharia de Software na FIAP (2028)
 - ⚙️ Foco em Back-End
-- 🔐 Conhecimentos em Cibersegurança
+- 🔐 Cibersegurança: Linux básico e redes
 - 🌐 Já atuei com front-end no projeto de extensão REPOSIT, do Mackenzie
 - 🧑‍🚀 Aberto a projetos freelance (sites e outros serviços)
 - 🌱 Sempre aprendendo e construindo coisa nova
@@ -58,10 +58,11 @@ Sou **Guilherme Acacio**, estudante de **Engenharia de Software na FIAP** (forma
 | Projeto | O que é | Stack |
 |---|---|---|
 | **[LUMNOX — Experiência Cyberpunk 3D](https://github.com/Guilherme12376/lumnox)** | Site imersivo de uma marca fictícia (Neo-Osaka, 2089): intro cinematográfica, cidade de luz em 3D, Core Lab interativo, tudo procedural com shaders e som em WebAudio. Feito com IA. [Ver no ar](https://lumnox.vercel.app) | React · TypeScript · Three.js · GSAP · Tailwind · Vercel |
-| **REPOSIT (Mackenzie)** | Migração do site do programa de extensão de Wix para um projeto próprio | React · Vite · TypeScript · Tailwind |
+| **[REPOSIT — Mackenzie](https://github.com/Guilherme12376/reposit-mackenzie-fixed)** | Site do programa de extensão REPOSIT (Proextmackenzie), da Universidade Presbiteriana Mackenzie. Migrei de Wix para um projeto próprio, com identidade visual do Mackenzie, seção da equipe, carrossel e meta tags. [Ver no ar](https://proext.com.br) | React · Vite · TypeScript · Tailwind · Vercel |
 
 <p align="center">
   <a href="https://lumnox.vercel.app"><img src="https://img.shields.io/badge/Ver_LUMNOX_no_ar-8957e5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://proext.com.br"><img src="https://img.shields.io/badge/Ver_REPOSIT_no_ar-C8102E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 > 💡 Adicione aqui seus projetos da FIAP e freelas, como no modelo acima.
@@ -90,10 +91,8 @@ Sou **Guilherme Acacio**, estudante de **Engenharia de Software na FIAP** (forma
 
 <p>
   <img src="https://img.shields.io/badge/Ciberseguran%C3%A7a-2EA043?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <!-- Adicione as ferramentas que você usa, exemplo:
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  -->
+  <img src="https://img.shields.io/badge/Linux_(b%C3%A1sico)-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redes-1f6feb?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 **Ferramentas & Deploy**
